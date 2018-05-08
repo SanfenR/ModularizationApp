@@ -1,1 +1,1 @@
-include ':app', ':modulea', ':library', ':router'
+include ':app', ':modulea', ':library', ':router', ':resource'
