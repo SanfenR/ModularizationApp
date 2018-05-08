@@ -14,5 +14,8 @@ public class RouterConstants {
     public static final String MODULEA_SHAPE_IMPL = "/modulea/ModuleaShape";
 
 
-
+    /**
+     * moduleb
+     */
+    public static final String MODULEB_MAIN_ACTIVITY = "/moduleb/MainActivity";
 }
